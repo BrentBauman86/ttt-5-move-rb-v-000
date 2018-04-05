@@ -10,6 +10,10 @@ def display_board(board)
 end
 
 def input_to_index(string)
+<<<<<<< HEAD
+=======
+
+>>>>>>> fd62f1b02200a5be4da3bff4610417ceb6e2a686
   string.to_i - 1
   index = string.to_i-1
   end
